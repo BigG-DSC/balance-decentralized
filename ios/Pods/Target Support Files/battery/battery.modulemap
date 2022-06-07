@@ -1,0 +1,6 @@
+framework module battery {
+  umbrella header "battery-umbrella.h"
+
+  export *
+  module * { export * }
+}
